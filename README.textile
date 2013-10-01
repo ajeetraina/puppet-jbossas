@@ -1,4 +1,4 @@
-h1. JBoss AS Puppet Module
+h1. Red Hat JBoss AS Puppet Module
 
 "soluvas/puppet-jbossas Project on GitHub":https://github.com/soluvas/puppet-jbossas
 
