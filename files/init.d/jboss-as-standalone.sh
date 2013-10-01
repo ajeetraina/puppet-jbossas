@@ -2,6 +2,7 @@
 #
 # JBoss standalone control script
 #
+#
 # chkconfig: - 80 20
 # description: JBoss AS Standalone
 # processname: standalone
